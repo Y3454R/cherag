@@ -66,5 +66,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributing
 
 All contributions are welcome, especially if you can make it even more magical! ✨
-```
-
