@@ -1,6 +1,6 @@
 # Cherag - Your Aladdin's Lamp to ML (Magic Lamp!) ✨
 
-**Cherag** is your Aladdin's (or a lazy guy like me 🦥) lamp to ML (Magical Land)! 🧞‍♂️ Run the script, and it’ll grant (print irl) your data wishes to the LLM genie. ✨ No magic carpet needed, just a dash of Python wizardry!
+**Ch(AT)erag(PT)** is your Aladdin's (or a lazy guy like me 🦥) lamp to ML (Magical Land)! 🧞‍♂️ Run the script, and it’ll grant (print irl) your data wishes to the LLM genie. ✨ No magic carpet needed, just a dash of Python wizardry!
 
 ---
 
