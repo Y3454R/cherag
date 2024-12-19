@@ -26,7 +26,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/cherag.git
+    git clone https://github.com/Y3454R/cherag.git
     ```
 
 2. Navigate into the project directory:
